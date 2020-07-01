@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13" height="21" viewBox="0 0 13 21">
+  <g id="téléphone" transform="translate(0.5 0.5)">
+    <path id="Subtraction_5" data-name="Subtraction 5" d="M-359,2243h-8a1.928,1.928,0,0,1-1.407-.594A1.93,1.93,0,0,1-369,2241v-16a1.928,1.928,0,0,1,.594-1.406A1.928,1.928,0,0,1-367,2223h8a1.93,1.93,0,0,1,1.406.594A1.927,1.927,0,0,1-357,2225v16a1.929,1.929,0,0,1-.593,1.406A1.933,1.933,0,0,1-359,2243Zm-6.484-19a.5.5,0,0,0-.5.5.5.5,0,0,0,.5.5h5.025a.5.5,0,0,0,.5-.5.5.5,0,0,0-.5-.5Z" transform="translate(369 -2223)" fill="#b1b9c7" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+</svg>

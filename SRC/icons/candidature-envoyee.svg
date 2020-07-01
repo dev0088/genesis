@@ -1,0 +1,35 @@
+<svg id="candidature-envoyee" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="85" height="85" viewBox="0 0 85 85">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Oval" cx="42.5" cy="42.5" r="42.5" fill="#aeb8ff"/>
+    </clipPath>
+    <filter id="Rectangle" x="0.437" y="2.191" width="84.125" height="94.617" filterUnits="userSpaceOnUse">
+      <feOffset dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.5" result="blur"/>
+      <feFlood flood-color="#16a29a" flood-opacity="0.329"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="icon">
+    <circle id="Oval-2" data-name="Oval" cx="42.5" cy="42.5" r="42.5" fill="#00d9cd" opacity="0.1"/>
+    <g id="icon-2" data-name="icon" clip-path="url(#clip-path)">
+      <g id="Group_837" data-name="Group 837" transform="translate(-8.471 10.65) rotate(-13)">
+        <g transform="matrix(0.97, 0.22, -0.22, 0.97, 10.65, -8.47)" filter="url(#Rectangle)">
+          <rect id="Rectangle-2" data-name="Rectangle" width="35" height="49" rx="7" transform="translate(19.94 22.56) rotate(-13)" fill="#fff"/>
+        </g>
+        <rect id="Rectangle-3" data-name="Rectangle" width="21" height="5" rx="2.5" transform="translate(32 25)" fill="#344356"/>
+        <rect id="Rectangle_Copy_4" data-name="Rectangle Copy 4" width="21" height="5" rx="2.5" transform="translate(32 45)" fill="#1de0d6"/>
+        <rect id="Rectangle_Copy_5" data-name="Rectangle Copy 5" width="21" height="5" rx="2.5" transform="translate(32 53)" fill="#344356" opacity="0.4"/>
+        <rect id="Rectangle_Copy_3" data-name="Rectangle Copy 3" width="11" height="5" rx="2.5" transform="translate(37 33)" fill="#344356"/>
+      </g>
+    </g>
+  </g>
+  <g id="Group_839" data-name="Group 839" transform="translate(-215.136 -199.222)">
+    <g id="icons8-check_file" transform="translate(240 222.3)" fill="#1de0d6">
+      <path d="M 33.97562408447266 45.14496994018555 C 28.85000419616699 45.14496994018555 24.68000411987305 41.04143142700195 24.68000411987305 35.99748992919922 C 24.68000411987305 30.95355033874512 28.85000419616699 26.85000038146973 33.97562408447266 26.85000038146973 C 39.10124588012695 26.85000038146973 43.27124404907227 30.95355033874512 43.27124404907227 35.99748992919922 C 43.27124404907227 41.04143142700195 39.10124588012695 45.14496994018555 33.97562408447266 45.14496994018555 Z" stroke="none"/>
+      <path d="M 33.97562408447266 27.85000991821289 C 29.39407348632812 27.85000991821289 25.68000411987305 31.49774932861328 25.68000411987305 35.99748992919922 C 25.68000411987305 40.49723052978516 29.39407348632812 44.14496994018555 33.97562408447266 44.14496994018555 C 38.55717468261719 44.14496994018555 42.27124404907227 40.49723052978516 42.27124404907227 35.99748992919922 C 42.27124404907227 31.49774932861328 38.55717468261719 27.85000991821289 33.97562408447266 27.85000991821289 M 33.97562408447266 25.85000991821289 C 39.65264129638672 25.85000991821289 44.27124404907227 30.40214920043945 44.27124404907227 35.99748992919922 C 44.27124404907227 41.59283065795898 39.65264129638672 46.14496994018555 33.97562408447266 46.14496994018555 C 28.29860305786133 46.14496994018555 23.68000411987305 41.59283065795898 23.68000411987305 35.99748992919922 C 23.68000411987305 30.40214920043945 28.29860305786133 25.85000991821289 33.97562408447266 25.85000991821289 Z" stroke="none" fill="#fff"/>
+    </g>
+    <path id="icons8-check_file-2" data-name="icons8-check_file" d="M39.615,35.236a1.192,1.192,0,0,1,.838.341,1.148,1.148,0,0,1,0,1.646l-4.74,4.656a1.2,1.2,0,0,1-1.676,0l-2.37-2.328a1.148,1.148,0,0,1,0-1.646,1.2,1.2,0,0,1,1.676,0l1.532,1.5,3.9-3.833A1.192,1.192,0,0,1,39.615,35.236Z" transform="translate(237.915 219.57)" fill="#fff"/>
+  </g>
+</svg>
